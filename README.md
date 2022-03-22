@@ -5,7 +5,7 @@ This script was made because I was bored. Thats all.
 # Disclaimer!
 
   - DO NOT run this script unless you really want to take the chances
-  - I will not be held responsible for what you do with this
+  - I will not be held responsible for what you do with this or any damage that may come
 
 ### How To Use
 
